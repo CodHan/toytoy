@@ -8,7 +8,7 @@ import Bar from "@/components/Bar";
 export default function Home() {
   return (
     <main>
-      <div className="border border-red-500 relative min-h-screen">
+      <div className="relative min-h-screen">
         <Header />
         <Carousel />
         <Bar />
